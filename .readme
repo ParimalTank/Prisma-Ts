@@ -1,0 +1,7 @@
+For Running File
+
+npx ts-node index.ts
+
+For Prisma Studio
+
+npx prisma studio
